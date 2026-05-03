@@ -1,0 +1,14 @@
+
+
+asgiref                       3.11.1
+Django                        4.1.13
+django-cors-headers           4.9.0
+djangorestframework           3.14.0
+djangorestframework_simplejwt 5.5.1
+mysqlclient                   2.2.8
+pillow                        12.2.0
+pip                           26.0.1
+PyJWT                         2.12.1
+python-decouple               3.8
+sqlparse                      0.5.5
+tzdata                        2026.1
